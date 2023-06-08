@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quizzy</string>
+    <string name="dialog_button_ok">OK</string>
+    <string name="dialog_message">TEST</string>
+    <string name="dialog_title">TITLE</string>
+    <string name="image_content_description">logo\n</string>
+</resources>
